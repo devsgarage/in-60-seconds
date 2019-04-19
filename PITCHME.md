@@ -1,8 +1,9 @@
-# Let's Get Started
+?color=#E58537
+# Making your software S.O.L.I.D. gold
 
 ---
 
-## Add Some Slide Candy
+## 
 
 ![](assets/img/presentation.png)
 
