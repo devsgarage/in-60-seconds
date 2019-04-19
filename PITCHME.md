@@ -3,12 +3,12 @@
 
 ---
 
-@snap[west]
-## S ingle responsibility principle
-## O pen/closed principle
-## L iskovs substitution principle
-## I nterface segregation principle
-## D ependency inversion principle
+@snap[west span-100]
+### S ingle responsibility principle
+### O pen/closed principle
+### L iskovs substitution principle
+### I nterface segregation principle
+### D ependency inversion principle
 @snapend
 
 ---
