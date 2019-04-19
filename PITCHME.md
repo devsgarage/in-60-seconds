@@ -3,7 +3,7 @@
 
 ---
 
-@snap[west span-25]
+@snap[west span-10]
 ### S
 ### O
 ### L
@@ -11,12 +11,12 @@
 ### D
 @snapend
 
-@snap[east span-75]
-####ingle responsibility principle
-####pen/closed principle
-####iskovs substitution principle
-####nterface segregation principle
-####ependency inversion principle
+@snap[east span-90]
+#### ingle responsibility principle
+#### pen/closed principle
+#### iskovs substitution principle
+#### nterface segregation principle
+#### ependency inversion principle
 @snapend
 ---
 
@@ -29,11 +29,11 @@
 @snapend
 
 @snap[east span-90]
-####ingle responsibility principle
-####pen/closed principle
-####iskovs substitution principle
-####I nterface segregation principle
-####ependency inversion principle
+#### ingle responsibility principle
+#### pen/closed principle
+#### iskovs substitution principle
+#### nterface segregation principle
+#### ependency inversion principle
 @snapend
 ---
 
