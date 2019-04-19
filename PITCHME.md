@@ -19,6 +19,24 @@ I nterface segregation principle
 ependency inversion principle
 @snapend
 ---
+
+@snap[west span-25]
+### **S**
+### **O**
+### L
+### **I**
+### D
+@snapend
+
+@snap[east span-75]
+ingle responsibility principle
+pen/closed principle
+iskovs substitution principle
+I nterface segregation principle
+ependency inversion principle
+@snapend
+---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
