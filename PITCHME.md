@@ -37,6 +37,9 @@ ependency inversion principle
 @snapend
 ---
 
+# Let's see it in code
+---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
